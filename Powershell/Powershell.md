@@ -57,6 +57,6 @@ Get-ChildItem
 |`Remove-Item`|Elimina archivos|
 
 *****
-# Siguiente paso:
+## Puedes ver también:
 [[Alias en Powershell]]
 [[Alias permanente para Docker]]

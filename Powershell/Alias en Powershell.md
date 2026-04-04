@@ -42,5 +42,5 @@ notepad $PROFILE
 ```
 
 *****
-# Siguiente paso:
+## Puedes ver también:
 [[Alias permanente para Docker]]

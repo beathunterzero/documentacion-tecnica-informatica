@@ -17,7 +17,7 @@ dockerstart --background
 PowerShell permite crear funciones para automatizar tareas complejas.
 ### Ejemplo: función `dockerup`
 
-```txt
+```code
 function dockerup {
     dockerstart --background
     Start-Sleep -Seconds 3
@@ -35,7 +35,7 @@ Es una automatización elegante para tu flujo de trabajo.
 
 Ejemplo profesional:
 
-```txt
+```code
 # ============================
 # Alias
 # ============================
@@ -57,5 +57,4 @@ $env:EDITOR = "notepad"
 ```
 
 *****
-# Puedes ver también:
-
+## Puedes ver también:
