@@ -58,8 +58,9 @@ This message shows that your installation appears to be working correctly.
 ### Docker no responde en WSL
 
 ```bash
+dockerstop
 wsl --shutdown
-dockerup
+dockerstart --background
 ```
 
 ### Error: Cannot connect to the Docker daemon
@@ -78,5 +79,5 @@ sudo chmod 666 /var/run/docker.sock
 
 *********
 ## Puedes ver también:
-[[Alias permanente para Docker]]
-[[Conceptos fundamentales de Docker]]
+[[Automatización para Docker en PowerShell]]
+

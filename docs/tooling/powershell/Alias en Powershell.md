@@ -41,4 +41,4 @@ notepad $PROFILE
 
 *****
 ## Puedes ver también:
-[[Alias permanente para Docker]]
+[[Automatización para Docker en PowerShell]]

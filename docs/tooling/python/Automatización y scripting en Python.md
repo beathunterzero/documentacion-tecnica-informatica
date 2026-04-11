@@ -50,3 +50,4 @@ wsl python3 /home/rhodyn/proyecto/src/main.py
 
 *************************
 ## También puedes ver:
+[[Mantenimiento de distribuciones]]

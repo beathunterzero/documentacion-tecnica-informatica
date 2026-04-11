@@ -59,7 +59,7 @@ Get-ChildItem
 *****
 ## Puedes ver también:
 [[Alias en Powershell]]
-[[Alias permanente para Docker]]
+[[Automatización para Docker en PowerShell]]
 [[Git]]
 [[GitHub]]
 [[Azure CLI]]
