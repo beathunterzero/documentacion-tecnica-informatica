@@ -360,3 +360,5 @@ http://localhost:5601
 ## También puedes ver
 
 [[Docker Compose]]
+[[Creación de un Data View en Kibana]]
+[[Crear un usuario en Elasticsearch desde Kibana]]
