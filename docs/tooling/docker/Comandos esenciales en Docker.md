@@ -153,4 +153,3 @@ Copia un archivo **desde el contenedor a tu máquina**.
 **************
 ## También puedes ver:
 [[Buenas prácticas en Docker]]
-[[Buenas prácticas en Docker]]
