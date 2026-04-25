@@ -4,6 +4,36 @@ El **Elastic Security Lab** es un entorno SIEM (_Security Information and Event 
 
 ## 2. Estructura de Directorios (FileSystem)
 
+Se creó la estructura de datasets, organizada por plataforma:
+
+  
+
+```bash
+mkdir -p datasets/aws/cloudtrail
+mkdir -p datasets/aws/guardduty
+mkdir -p datasets/aws/s3access
+mkdir -p datasets/aws/vpcflow
+  
+mkdir -p datasets/azure/activity
+mkdir -p datasets/azure/audit
+mkdir -p datasets/azure/firewall
+mkdir -p datasets/azure/signin
+
+mkdir -p datasets/linux
+mkdir -p datasets/windows
+mkdir -p datasets/firewall
+```
+
+  
+
+También se creó el directorio para Filebeat:
+
+  
+
+```bash
+mkdir filebeat
+```
+
 La organización es jerárquica para facilitar la escalabilidad del laboratorio:
 
 Bash
@@ -150,12 +180,13 @@ Cada bloque define un `id` único para evitar colisiones en los metadatos de Fil
     
 4. **Acceso:** `http://localhost:5601`.
     
-
+5. **Detener:** `docker-compose stop`
 ---
 
 ### Documentación Relacionada
 
 [[02 - Creación de un Data View en Kibana]]
-[[03 - Crear un usuario en Elasticsearch desde Kibana]]
+[[03 - Creación de un usuario en Elasticsearch desde Kibana]]
+[[04 - Creación de Reglas de Detección en Elastic SIEM]]
 [[01 - Filosofía y estrategia del Threat Hunting]]
 [[06 - Docker Compose]]

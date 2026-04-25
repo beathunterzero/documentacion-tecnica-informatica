@@ -94,4 +94,4 @@ Si al entrar a **Discover** no aparecen datos ("No results match your search"), 
 
 ### Documentación Relacionada
 
-[[03 - Crear un usuario en Elasticsearch desde Kibana]]
+[[03 - Creación de un usuario en Elasticsearch desde Kibana]]
