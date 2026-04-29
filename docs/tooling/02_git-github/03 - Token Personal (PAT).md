@@ -154,4 +154,4 @@ rm ~/.git-credentials
 [[01 - Git]]  
 [[02 - GitHub]]  
 [[04 - Autenticación SSH con GitHub]]  
-[[08 - Buenas prácticas y manejos avanzado]]
+[[09 - Buenas prácticas y manejos avanzado]]

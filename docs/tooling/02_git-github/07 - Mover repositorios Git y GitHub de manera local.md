@@ -132,5 +132,5 @@ Rutas en scripts
 
 [[01 - Git]]  
 [[02 - GitHub]]  
-[[07 - Visibilidad de repositorios]]  
-[[08 - Buenas prácticas y manejos avanzado]]
+[[08 - Visibilidad de repositorios]]  
+[[09 - Buenas prácticas y manejos avanzado]]

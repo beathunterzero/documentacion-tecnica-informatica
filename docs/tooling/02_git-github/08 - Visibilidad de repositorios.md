@@ -155,4 +155,4 @@ Configuraciones internas
 
 [[01 - Git]]  
 [[02 - GitHub]]  
-[[08 - Buenas prácticas y manejos avanzado]]
+[[09 - Buenas prácticas y manejos avanzado]]

@@ -188,4 +188,4 @@ Notas
 [[01 - Git]]  
 [[02 - GitHub]]  
 [[03 - Token Personal (PAT)]]  
-[[08 - Buenas prácticas y manejos avanzado]]
+[[09 - Buenas prácticas y manejos avanzado]]

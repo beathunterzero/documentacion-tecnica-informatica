@@ -1,41 +1,43 @@
-# 📚 Documentación Técnica Informática
+# 📚 Engineering Knowledge Base
 
-Repositorio de documentación técnica orientada a entornos de ingeniería, ciberseguridad y automatización.  
-Este proyecto consolida conocimientos prácticos sobre tooling, sistemas, virtualización y desarrollo, organizados de forma estructurada y reproducible.
+Structured technical documentation repository focused on engineering environments, cybersecurity, and automation.  
+This project consolidates practical knowledge related to tooling, systems, virtualization, and development, organized in a reproducible and operational format.
 
----
-
-## 🎯 Objetivo
-
-Centralizar y estandarizar conocimiento técnico utilizado en:
-
-- Entornos de laboratorio (CTH, DFIR, Pentesting)
-    
-- Automatización de tareas (PowerShell, Python)
-    
-- Gestión de infraestructura local (WSL, Docker, VMware)
-    
-- Buenas prácticas de desarrollo y operación
-    
+> ⚠️ **Note:** The documentation inside this repository is primarily written in **Spanish**.
 
 ---
 
-## 🧠 Enfoque del repositorio
+## 🎯 Purpose
 
-Este repositorio no es teórico. Está diseñado como:
+To centralize and standardize technical knowledge used in:
 
-- 📌 Base de conocimiento operativa
+- Laboratory environments (CTH, DFIR, Pentesting)
     
-- 📌 Guía de referencia rápida
+- Task automation (PowerShell, Python)
     
-- 📌 Soporte para laboratorios técnicos
+- Local infrastructure management (WSL, Docker, VMware)
     
-- 📌 Documentación reutilizable en proyectos reales
+- Development and operational best practices
     
 
 ---
 
-## 📂 Estructura del proyecto
+## 🧠 Repository Approach
+
+This repository is not theoretical. It is designed as:
+
+- 📌 Operational knowledge base
+    
+- 📌 Quick reference guide
+    
+- 📌 Support for technical labs
+    
+- 📌 Reusable documentation for real-world projects
+    
+
+---
+
+## 📂 Project Structure
 
 ```
 docs/
@@ -49,74 +51,74 @@ docs/
 │   └── 06_docker/
 │
 scripts/
-└── python-code/
-    └── carnada.py
+└── python/
+    └── (security-focused tools)
 ```
 
 ---
 
-## 🧩 Contenido principal
+## 🧩 Core Content
 
 ### ⚙️ Tooling
 
 #### PowerShell
 
-- Fundamentos
+- Fundamentals
     
-- Alias y automatización
+- Aliases and automation
     
-- Integración con herramientas CLI
+- CLI integration
     
 
 #### Git & GitHub
 
-- Control de versiones
+- Version control
     
-- Autenticación (PAT / SSH)
+- Authentication (PAT / SSH)
     
-- Buenas prácticas y flujo de trabajo
+- Best practices and workflows
     
 
 #### WSL
 
-- Instalación y arquitectura
+- Installation and architecture
     
-- Mantenimiento de distribuciones
+- Distribution maintenance
     
-- Integración con herramientas Linux
+- Linux tooling integration
     
 
 #### Python
 
-- Entornos en WSL
+- WSL environments
     
-- Estructura de proyectos
+- Project structure
     
-- Gestión de dependencias
+- Dependency management
     
-- Automatización y buenas prácticas
+- Automation and best practices
     
 
 #### VMware Workstation
 
-- Virtualización
+- Virtualization fundamentals
     
-- Creación y gestión de VMs
+- VM creation and management
     
-- Snapshots y portabilidad (OVA)
+- Snapshots and portability (OVA)
     
 
 #### Docker
 
-- Conceptos fundamentales
+- Core concepts
     
-- Instalación en WSL
+- WSL-based setup
     
-- Comandos esenciales
+- Essential commands
     
-- Automatización
+- Automation
     
-- Buenas prácticas
+- Best practices
     
 - Docker Compose
     
@@ -125,69 +127,65 @@ scripts/
 
 ### 🧪 Scripts
 
-#### `carnada.py`
+This repository includes **Python-based security tools**, focused on:
 
-Herramienta CLI para:
+- Automation
+    
+- Credential handling
+    
+- Data processing
+    
+- Security-oriented utilities
+    
 
-- Generación de contraseñas seguras
+These scripts are designed to support laboratory environments and real-world workflows.
+
+---
+
+## 🚀 Usage
+
+This repository is intended for:
+
+- Direct consultation via Obsidian or code editors
     
-- Hashing (SHA-256 / SHA-512)
+- Quick reference during terminal or lab work
     
-- Cifrado simétrico:
-    
-    - AES-256-GCM
-        
-    - ChaCha20-Poly1305
-        
-- Derivación de claves con PBKDF2
+- Support for deploying and maintaining technical environments
     
 
 ---
 
-## 🚀 Uso del repositorio
+## 🧱 Working Philosophy
 
-Este repositorio está diseñado para:
-
-- Consulta directa desde Obsidian o editor de código
+- Clear and consistent structure
     
-- Referencia rápida en terminal o laboratorio
+- Separation between theory and practice
     
-- Apoyo en despliegue de entornos técnicos
+- Execution-oriented documentation
     
-
----
-
-## 🧱 Filosofía de trabajo
-
-- Estructura clara y consistente
-    
-- Separación entre teoría y práctica
-    
-- Documentación orientada a ejecución
-    
-- Reutilización en múltiples proyectos
+- Reusability across multiple projects
     
 
 ---
 
-## ⚠️ Consideraciones
+## ⚠️ Considerations
 
-- Parte del contenido está optimizado para entornos de laboratorio
+- Content is optimized for lab environments
     
-- Algunas configuraciones pueden no ser aptas para producción sin ajustes
+- Some configurations may require adjustments for production use
     
-- Se prioriza claridad operativa sobre abstracción teórica
+- Operational clarity is prioritized over theoretical abstraction
     
 
 ---
 
-## 📜 Licencia
+## 📜 License
 
 MIT License
 
 ---
 
-## 👤 Autor
+## 👤 Author
 
 **beathunterzero**  
 Cyber Threat Hunting & Security

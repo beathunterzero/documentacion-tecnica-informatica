@@ -159,5 +159,5 @@ Se recomienda mantener una estructura consistente y profesional, incluyendo:
 [[01 - Git]]  
 [[03 - Token Personal (PAT)]]  
 [[04 - Autenticación SSH con GitHub]]  
-[[06 - Mover repositorios Git y GitHub de manera local]]  
-[[07 - Visibilidad de repositorios]]
+[[07 - Mover repositorios Git y GitHub de manera local]]  
+[[08 - Visibilidad de repositorios]]
